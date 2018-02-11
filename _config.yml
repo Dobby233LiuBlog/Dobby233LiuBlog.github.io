@@ -10,3 +10,6 @@ description: > # this means to ignore newlines until "baseurl:"
 github_username:  Dobby233Liu
 
 show_excerpts: false # to looking like offical demo
+
+minima:
+  date_format: "%Y-%m-%d %H:%M" # format of the android
