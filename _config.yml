@@ -25,3 +25,6 @@ plugins:
   - jekyll-sitemap
   - jemoji
   - jekyll-mentions
+  
+disqus:
+    shortname: dobby233liublog
