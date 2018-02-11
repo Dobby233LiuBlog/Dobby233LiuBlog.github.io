@@ -12,7 +12,6 @@ Writer:
 
 (WARNING FOR THE FLASHING LIGHT)
 
-> <video controls="controls" autoplay="autoplay" loop="loop">
-<source src="https://dobby233liu.github.io/0/DJwko9rXkAIYjxd.mp4" type="video/mp4">
-UR BROWSER UNSUPPORTS HTML5
-</video>
+
+><video src="https://dobby233liu.github.io/0/DJwko9rXkAIYjxd.mp4" type="video/mp4" autoplay="autoplay" loop="loop">
+
