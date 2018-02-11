@@ -2,6 +2,7 @@
 layout: post
 title: So the entire blog's here now.
 description: I have nothing to say
+comments: true
 ---
 
 Because this site is sucess to build. :wink:
