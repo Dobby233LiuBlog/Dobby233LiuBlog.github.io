@@ -4,12 +4,12 @@ title: Dobby's blog
 author: Dobby233Liu
 
 description: > # this means to ignore newlines until "baseurl:"
-  I made this simple blog to record something :smile:. <br />Using jekyll's Minima theme. This theme is jekyll's first theme.<br /> Orignal version is archived by me (see @Dobby233LiuBlog).
+  I made this simple blog to record something :smile:. Using jekyll's Minima theme. This theme is jekyll's first theme. Orignal version is archived by me (see @Dobby233LiuBlog).
 
 # Social
 github_username:  Dobby233Liu
 
-show_excerpts: false # to looking like offical demo
+show_excerpts: true # to looking less like offical demo
 
 minima:
   date_format: "%Y-%m-%d %H:%M" # format of the android
