@@ -17,4 +17,4 @@ minima:
 header_pages:
  - index.html
 
-rss:#nothing
+rss: #nothing
