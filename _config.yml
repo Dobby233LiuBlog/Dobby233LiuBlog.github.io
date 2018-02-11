@@ -13,3 +13,6 @@ show_excerpts: false # to looking like offical demo
 
 minima:
   date_format: "%Y-%m-%d %H:%M" # format of the android
+
+header_pages:
+ - index.html
