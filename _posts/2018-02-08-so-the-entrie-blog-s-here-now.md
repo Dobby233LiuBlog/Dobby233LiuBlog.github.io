@@ -13,5 +13,5 @@ Writer:
 (WARNING FOR THE FLASHING LIGHT)
 
 
-><video src="https://dobby233liu.github.io/0/DJwko9rXkAIYjxd.mp4" type="video/mp4" autoplay="autoplay" loop="loop">UR BROWSER SUCKS</video>
+>![]()
 
