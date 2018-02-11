@@ -9,6 +9,10 @@ Reader:
 > "Are here's have more detail?"
 
 Writer: 
-(WARNING FOR FLASHING LIGHT)
 
-> <iframe src="https://dobby233liu.github.io/0/DJwko9rXkAIYjxd.mp4"></iframe>
+(WARNING FOR THE FLASHING LIGHT)
+
+> <video controls="controls" autoplay="autoplay" loop="loop">
+<source src="https://dobby233liu.github.io/0/DJwko9rXkAIYjxd.mp4" type="video/mp4">
+UR BROWSER UNSUPPORTS HTML5
+</video>
