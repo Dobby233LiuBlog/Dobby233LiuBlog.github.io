@@ -3,10 +3,10 @@ layout: post
 title: So the entire blog's here now.
 ---
 
-Because there's sucess to build. :wink:
+Because this site is sucess to build. :wink:
 
 Reader: 
-> "Are here's have more detail?"
+> "Are there's have more detail?"
 
 Writer: 
 
