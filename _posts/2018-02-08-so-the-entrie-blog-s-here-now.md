@@ -1,6 +1,7 @@
 ---
 layout: post
 title: So the entire blog's here now.
+description: I have nothing to say
 ---
 
 Because this site is sucess to build. :wink:
