@@ -28,3 +28,5 @@ plugins:
   
 disqus:
     shortname: dobby233liublog
+
+lang: zh
