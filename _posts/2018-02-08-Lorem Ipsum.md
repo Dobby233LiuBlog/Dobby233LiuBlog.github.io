@@ -1,7 +1,7 @@
 ---
-layout: page
-excerpt: ["testing"]
-description: Everyone use it as an example
+layout: post
+excerpt: "testing"
+
 
 ---
 
