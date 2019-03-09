@@ -1,4 +1,20 @@
+---
+title: "Brief description of My Kawaii Cute Cat, a nonexist manga."
+
+tags: ["twdne", "nonexist things", "gpt-2-anime", "gpt-2-small", "nonexist", "dream", "manga"]
+
+spider: true
+
+related_url: ["https://www.thiswaifudoesnotexist.net"]
+---
+
 # Brief description of `My Kawaii Cute Cat`, a nonexist manga.
+
+images:
+
+<!--> ![283 (now)](https://www.thiswaifudoesnotexist.net/example-283.jpg)-->
+> ![283 (old)](https://www.gwern.net/images/gan/thiswaifudoesnotexist-283.png)
+
 
 original text: 
 
