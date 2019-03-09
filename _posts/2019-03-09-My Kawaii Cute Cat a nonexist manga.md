@@ -1,8 +1,20 @@
-# Breif description of `My Kawaii Cute Cat`, a nonexist manga.
+# Brief description of `My Kawaii Cute Cat`, a nonexist manga.
 
 original text: 
 
 [https://www.thiswaifudoesnotexist.net/snippet-283.txt](https://www.thiswaifudoesnotexist.net/snippet-283.txt)
+
+> ive never seen a single red red cat in my life so how's it going to feel? It looks like a pretty normal cat, though I wonder if that cat 
+> will grow up to be a pet. As the story progresses, I realize that my cute cat does indeed meet a very important person in that situation. 
+> My kawaii cute cat has made it to the top of the list of the most popular anime of the day in Japan, but when I looked back a bit at the 
+> manga series I loved I could no longer help but think that this was a very strange story. The manga's plot revolves around a young
+> Japanese woman and an alien, who is attracted to a kitten he has known for a while. He then tries and has sex with one of your cute
+> cats. And after the second cat-paw, the kitten has no idea what she's doing and they both become hot. It's a strange situation and one > that makes you wonder what's wrong. I can only tell you that for the first two episodes and the next season, the cat-paw was the first > thing I watched and I couldn't help but be blown away. It was a beautiful character and a character you can't help but love. I'm so
+> sad that this manga was just so long and had so many problems. It is so sad to say that this manga has never been seen by any anime
+> fans in the real world and this is an issue that must be addressed. 
+> Please make anime movies about me. Please make anime about me. Please make anime about your beautiful cat. Please make anime movie
+> about me. Please make anime about your cute cat. I wish you the best of luck in your life.
+> Please make anime about me. Please make anime about my cute cute kitten.
 
 chinese translation (removed repeat):
 > 我一生中从未见过一只红色的猫，所以感觉怎么样？
