@@ -8,12 +8,13 @@ description: I have nothing to say
 Because this site is sucess to build. :wink:
 
 Reader: 
-> "Are there's have more detail?"
+> "More detail pls"
 
 Writer: 
 
+**_ N o . _**
+
 (WARNING FOR THE FLASHING LIGHT)
 
-
->![](https://github.com/Dobby233LiuBlog/Dobby233LiuBlog.github.io/blob/master/_gifs/ezgif-1-44feb07a40.gif?raw=true)
+>![](assets/img/chara_shake.gif)
 
