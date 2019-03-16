@@ -11,9 +11,9 @@ Reader:
 
 Writer: 
 
-**_ N o . _**
+**_N o ._**
 
 (WARNING FOR THE FLASHING LIGHT)
 
->![](assetz/img/chara_shake.gif)
+>![](../../../assetz/img/chara_shake.gif)
 
