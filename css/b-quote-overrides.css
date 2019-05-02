@@ -61,7 +61,7 @@ blockquote {
   font-size: 12px;
   position: relative;
   float: right;
-  display: none;
+  visibility: hidden;
   font-style: normal;
 }
 .refer-url:visited {
@@ -69,5 +69,6 @@ blockquote {
 }
 .refer-url:hover {
   display: inline-block;
+  visibility: visible;
   color: #fb7299!important;
 }
