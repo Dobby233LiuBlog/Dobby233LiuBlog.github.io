@@ -1,4 +1,10 @@
 blockquote { 
   font-style: normal;
-  border: 2px soild #f6f8fa;
+  border: 2px solid #f6f8fa;
+  # https://s2.hdslb.com/bfs/static/blive/blfe-dynamic-web/static/css/vendor.a0893befabd96097ede068192120bacc.css .content-ellipsis
+  display: -webkit-box;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  word-break: normal;
+  word-wrap: break-word;
 }
