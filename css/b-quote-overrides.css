@@ -3,8 +3,8 @@ blockquote {
   border: 2px solid #f6f8fa;
   border-left: 4px solid #e8e8e8;
   /** https://s2.hdslb.com/bfs/static/blive/blfe-dynamic-web/static/css/vendor.a0893befabd96097ede068192120bacc.css .content-ellipsis **/
-  display: -webkit-box;
-  text-overflow: ellipsis;
+  /** display: -webkit-box; **/
+  /** text-overflow: ellipsis; **/
   word-break: normal;
   word-wrap: break-word;
   /** end **/
