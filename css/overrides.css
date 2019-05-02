@@ -9,6 +9,5 @@ blockquote {
   word-break: normal;
   word-wrap: break-word;
   /** end **/
-  border-left: 4px solid #e8e8e8;
   color: inherit;
 }
