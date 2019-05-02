@@ -55,3 +55,18 @@ blockquote {
   color: #00b5e5!important;
   text-decoration: none;
 }
+.refer-url {
+  color: #f45a8d!important;
+  /** light color: #fb7299 **/
+  font-size: 8px;
+  position: relative;
+  float: right;
+  display: none;
+}
+.refer-url:visited {
+  color: #f45a8d!important;
+}
+.refer-url.hover {
+  display: inline-block;
+  color: #fb7299;
+}
