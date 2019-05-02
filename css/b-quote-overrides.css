@@ -15,7 +15,7 @@ blockquote {
   word-wrap: break-word;
   /** end **/
   color: inherit;
-  padding-top: 16px;
+  padding: 16px;
 }
 .user-avtr {
   border-radius: 50%;
