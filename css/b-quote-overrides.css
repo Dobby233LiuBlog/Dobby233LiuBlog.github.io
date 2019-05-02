@@ -58,7 +58,7 @@ blockquote {
 .refer-url {
   color: #f45a8d!important;
   /** light color: #fb7299 **/
-  font-size: 8px;
+  font-size: 12px;
   position: relative;
   float: right;
   display: none;
