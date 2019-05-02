@@ -15,9 +15,12 @@ blockquote {
   word-wrap: break-word;
   /** end **/
   color: inherit;
+  padding-top: 16px;
 }
 .user-avtr {
   border-radius: 50%;
+  position: relative;
+  float: left;
   display: block;
   width: 48px;
   height: 48px;
