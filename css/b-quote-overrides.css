@@ -42,3 +42,6 @@ blockquote {
 .user-name * {
   color: #222!important;
 }
+.user-name:* {
+  color: #222!important;
+}
