@@ -38,10 +38,19 @@ blockquote {
   margin-block-end: 1em;
   margin-inline-start: 0px;
   margin-inline-end: 0px;
+  margin-right: 5px;
+  line-height: 18px;
 }
 .user-name * {
   color: #222!important;
 }
-.user-name:* {
+.user-name:visited {
   color: #222!important;
+}
+.user-name:active {
+  color: #222!important;
+}
+.user-name:hover {
+  color: #00b5e5!important;
+  text-decoration: none;
 }
