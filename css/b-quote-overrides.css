@@ -61,12 +61,12 @@ blockquote {
   font-size: 8px;
   position: relative;
   float: right;
-  display: none;
+  display: inline-block;
+  font-style: normal;
 }
 .refer-url:visited {
   color: #f45a8d!important;
 }
 .refer-url.hover {
   display: inline-block;
-  color: #fb7299;
 }
